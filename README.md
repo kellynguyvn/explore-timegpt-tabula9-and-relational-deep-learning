@@ -1,4 +1,4 @@
-# explore-timegpt-tabula9-and-relational-deep-learning
+# explore timegpt, tabula9 and relational deep learning
 
 ## TimeGPT:
 
