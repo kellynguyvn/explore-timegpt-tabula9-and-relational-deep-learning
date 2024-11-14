@@ -1,4 +1,6 @@
 # explore timegpt, tabula9 and relational deep learning
+### Demo Videos
+https://drive.google.com/drive/folders/1-UWIhvxs9NOR59oH_yfxHghOj1ZVDAw_?usp=drive_link
 
 ## TimeGPT:
 
